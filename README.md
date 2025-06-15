@@ -166,6 +166,11 @@ A collection of software for protein structure prediction and design, with a foc
 - [DL4Proteins workshops](https://github.com/Graylab/DL4Proteins-notebooks) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/)
   - instructive notebooks covering the basics of neural networks and PyTorch, through graph neural networks, Denoising Diffusion Probabilistic Models, Alphafold2 and RFDiffusion
 
+## Visualization
+
+- [Genomics 2 Proteins portal](https://g2p.broadinstitute.org)
+  - Portal for mapping annotations onto protein structures. Allows uploading engineered structures and annotations.
+
 ## Other lists
 
 - [List of papers about Proteins Design using Deep Learning (Peldom)](https://github.com/Peldom/papers_for_protein_design_using_DL)
